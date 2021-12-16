@@ -62,7 +62,7 @@ function Login() {
           objectFit="cover"
         />
         <div
-          className="w-full h-screen z-10 overflow-hidden scrollbar-hide opacity-10"
+          className="w-full h-screen z-10 overflow-hidden scrollbar-hide opacity-30"
           ref={vantaRef}
         />
       </div>
